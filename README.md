@@ -2,8 +2,7 @@
 
 A collection of AWESOME things about **Vision Question Answering (VQA) Related Large Language Models (LLMs)**.
 
-Large Language Models demonstrates promising ability of general knowledge and human-like thinking. There have been tones of research and applications in the field of Natural Language Processing but its magic power remains under explored in many other fields in today's AI academic world. This repo aims to provide a curated list of papers, code repos, datasets and resources focusing on the topic of utilizing LLMs in the task of Vision Question Answering (VQA) in order to faciliate future research. 
-
+Large Language Models demonstrates promising ability of general knowledge and human-like thinking. There have been tons of research and applications in the field of Natural Language Processing but its magic power remains under explored in many other fields in today's AI academic world. This repo aims to provide a curated list of papers, code repos, datasets and resources focusing on the topic of utilizing LLMs in the task of VQA.
 
 ## Table of Contents
 
