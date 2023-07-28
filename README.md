@@ -15,6 +15,8 @@ Large Language Models demonstrates promising ability of general knowledge and hu
 ## Papers
 ### 2023
 - (*CVPR 2023*) From Images to Textual Prompts: Zero-shot Visual Question Answering with Frozen Large Language Models [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_From_Images_to_Textual_Prompts_Zero-Shot_Visual_Question_Answering_With_CVPR_2023_paper.pdf)][[code](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa)]
+- (*arXiv 2023.06*) Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models [[paper](https://arxiv.org/pdf/2306.11732.pdf)]
+- (*arXiv 2023.05*) ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions [[paper](https://arxiv.org/pdf/2303.06594.pdf)][[code](https://github.com/Vision-CAIR/ChatCaptioner)]
 - (*arXiv 2023.02*) Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?[[paper](https://arxiv.org/pdf/2302.11713.pdf)]
 - (*arXiv 2023.01*) See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning [[paper](https://arxiv.org/pdf/2301.05226.pdf)]
 
